@@ -8,5 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-hamma pagela qilingan malumotlardan apidan rtk yordamida olingan addtocart detailsdayam ishlidi  loading qo'yilgan media bor homedan load more bor admin create category product va manage category produtc ishlidi apiga malumotlar qo'shiladi
-search ishlidi searchdan click bo'sa details page ga o'tadi productlada swiperdan foydalanilgan detailsda qo'lda custom qilingan rasmlaga bosilsa glavnisi bilan switch bo'ladi
+
